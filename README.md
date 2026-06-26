@@ -6,11 +6,11 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=chiariniccolo35-code&show_icons=true&theme=tokyonight&hide_border=true)
 
-###
+### Languages and Tools
 
 <h4 data-importer="text" align="left">Languages and tools</h4>
 
-###
+### Social contacs
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />

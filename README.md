@@ -1,4 +1,4 @@
-## Niccolo Chiari
+## Hi, I'm Niccolò 👋
 
 <p data-importer="text" align="left">Hello !</p>
 

@@ -2,11 +2,14 @@
 
 <p data-importer="text" align="left">Hello !</p>
 
+🔬 **Currently:** applying for PhD positions in medical AI / foundation models for oncology
+📍 Based in Italy
+
 ### :bar_chart: stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=chiariniccolo35-code&show_icons=true&theme=tokyonight&hide_border=true)
 
-### Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />

@@ -1,6 +1,9 @@
 ## Hi, I'm Niccolò 👋
 
-<p data-importer="text" align="left">Hello !</p>
+<p data-importer="text" align="left">MSc in Applied Mathematics from the University of Bologna!
+I enjoy
+
+</p>
 
 🔬 **Currently:** applying for PhD positions in medical AI / foundation models for oncology
 

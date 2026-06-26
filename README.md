@@ -3,6 +3,8 @@
 <p data-importer="text" align="left">Hello !</p>
 
 🔬 **Currently:** applying for PhD positions in medical AI / foundation models for oncology
+
+
 📍 Based in Italy
 
 ### :bar_chart: stats

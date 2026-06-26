@@ -2,7 +2,7 @@
 
 <p data-importer="text" align="left">Hello !</p>
 
-### stats
+### :bar_chart: stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=chiariniccolo35-code&show_icons=true&theme=tokyonight&hide_border=true)
 

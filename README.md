@@ -1,8 +1,6 @@
 ## Hi, I'm Niccolò 👋
 
-<p data-importer="text" align="left">MSc in Applied Mathematics from the University of Bologna!
-I enjoy
-
+<p data-importer="text" align="left">MSc in Applied Mathematics from the University of Bologna. I enjoy deep learning applied to medical imaging, especially the oncological field. I am currently applying to PhD programs in medical AI, foundation models, and computer vision.
 </p>
 
 🔬 **Currently:** applying for PhD positions in medical AI / foundation models for oncology
